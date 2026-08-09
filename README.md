@@ -96,7 +96,3 @@ Then open the local URL Streamlit prints (typically `http://localhost:8501`) in 
 
 - Models are currently hardcoded in `ai.py` — update the `model=` values there if you want to switch to different OpenAI models.
 - Never commit your `.env` file or API key to version control.
-
-## License
-
-No license has been specified for this repository. Add a `LICENSE` file if you intend to open-source this project.
